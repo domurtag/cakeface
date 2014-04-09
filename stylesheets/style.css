@@ -136,13 +136,22 @@ i{
 	font-family: 'GFS Didot';
 }
 
+.spacer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .btn:hover{
 	background-color: #fff;
 	color: #666;
 }
 
+.typewriter {
+    font-family: 'Special Elite', cursive;
+}
+
 .page-header{
-	background: url('http://placehold.it/1200x300');
+	background-color: #F7EBDB;
 	padding-top: 121px;
 }
 
