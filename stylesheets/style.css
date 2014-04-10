@@ -136,11 +136,6 @@ i{
 	font-family: 'GFS Didot';
 }
 
-.spacer {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
 .btn:hover{
 	background-color: #fff;
 	color: #666;
@@ -726,6 +721,11 @@ i{
 .work-item .work-img-holder{
 	overflow: hidden;
 	cursor: pointer;
+}
+
+.shadow {
+    border-radius: 7px;
+    box-shadow: 10px 10px 5px 0px #E9E6E1;
 }
 
 .work-item .work-img-holder img{
