@@ -725,7 +725,7 @@ i{
 
 .shadow {
     border-radius: 7px;
-    box-shadow: 10px 10px 5px 0px #E9E6E1;
+    box-shadow: 10px 10px 5px 0px #ccc;
 }
 
 .work-item .work-img-holder img{
