@@ -2,10 +2,16 @@
 if ($_POST) {
     $name  = $_POST['name'];
     $email = $_POST['email'];
-    $text  = $_POST['text'];
-    
+    $message  = $_POST['text'];
+    $subject = "cakefacemakeup.ie enquiry from: $name";
+
+    $headers = "" .
+        "Reply-To:" . $email . "\r\n" .
+        "From:" . $email . "\r\n" .
+        "X-Mailer: PHP/" . phpversion();
+
     //send email   
-    mail("craig@userfriendlyit.com.au", "email enquiry", $text, "From:" . $email);
+    mail("info@cakefacemakeup.ie", $subject, $message, $headers);
 }
 
 ?>
