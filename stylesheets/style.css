@@ -738,7 +738,7 @@ i{
 
 .shadow {
     border-radius: 7px;
-    box-shadow: 10px 10px 5px 0px #ccc;
+    box-shadow: 10px 10px 5px 0 #ccc;
 }
 
 .work-item .work-img-holder img{
@@ -805,6 +805,10 @@ i{
     border-bottom: none;
 }
 
+.alt-h li, p.alt-h {
+    font-size: 20px;
+    color: #666666;
+}
 
 /*************** WORK SINGLE PAGE *************/
 
