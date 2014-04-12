@@ -463,6 +463,10 @@ i{
 	letter-spacing: 3px;
 }
 
+.reverse-shadow {
+    box-shadow: -10px -10px 5px 0 #ccc;
+}
+
 /************* FEATURED WORK *************/
 
 #featured-work .inner-section{
@@ -490,6 +494,8 @@ i{
 	position: relative;
 	top: 1px;
 }
+
+
 
 .ft-work-title{
 	padding: 15px;
