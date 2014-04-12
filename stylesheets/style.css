@@ -697,10 +697,6 @@ i{
 	left: 40px;
 }
 
-
-
-
-
 /**************** WORK PAGES *************/
 
 .filters{
@@ -794,6 +790,21 @@ i{
 #threecol-container .work-item{
 	margin-bottom: 22px;
 }
+
+.work-title h5.alt-h {
+    margin-bottom: 0 !important;
+}
+
+.work-title h5.alt-h a {
+    color: #333;
+    border-bottom: dotted 1px #333;
+}
+
+.work-title h5.alt-h a:hover {
+    color: #4E87E1;
+    border-bottom: none;
+}
+
 
 /*************** WORK SINGLE PAGE *************/
 
