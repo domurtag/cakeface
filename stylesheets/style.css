@@ -9,6 +9,11 @@ span{
 	font-size: 13px;
 }
 
+section a {
+    color: #4E87E1;
+    text-decoration: none;
+}
+
 i{
 	font-style: normal;
 }
@@ -22,11 +27,15 @@ i{
 	overflow: hidden;
 }
 
-q {
-    display: block;
+.cite {
+    color: white;
+}
+
+.quote {
     margin-bottom: 15px;
     color: #FFB3C9;
-    font-size: 130%;
+    display: block;
+    font-size: 120%;
     line-height: 140%;
 }
 
