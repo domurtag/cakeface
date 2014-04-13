@@ -123,6 +123,7 @@ i{
 
 .hero-h1{
 	font-size: 88px;
+    text-shadow: -1px -1px 0 #888888;
 }
 
 .hr{
@@ -170,6 +171,7 @@ i{
 .page-header .hero-h1{
 	position: relative;
 	top: 17px;
+    text-align: center;
 }
 
 .page-preamble{
