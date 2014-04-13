@@ -267,12 +267,17 @@ i{
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
 	transition: all .5s ease;
+    text-align: center;
+}
+
+#nav-holder li a:hover {
+    color: #FFB3C9;
 }
 
 #nav-holder li a{
 	font-family: 'Montserrat';
 	color: #888;
-	
+
 }
 
 #nav-holder li:first-child{
