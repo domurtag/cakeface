@@ -4,6 +4,7 @@
 
 #nav-holder li{
 	float: none;
+    text-align: left;
 }
 
 #nav-holder li:last-child{
