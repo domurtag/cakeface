@@ -514,8 +514,9 @@ i{
 }
 
 #featured-work-slider img{
-	display: inline-block !important;
-	width: auto !important;
+    display: inline-block !important;
+    width: 100%;
+    height: auto;
 }
 
 /************* HOME SOCIAL ***************/
