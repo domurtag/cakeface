@@ -263,7 +263,7 @@ i{
 #nav-holder li{
 	float: left;
 	list-style: none;
-	width: 130px;
+	width: 125px;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
 	transition: all .5s ease;
@@ -284,14 +284,14 @@ i{
 	margin-left: 0px;
 }
 
-.sub{
+#nav-holder ul.sub{
 	max-height: 0px;
 	background-color: rgba(255,255,255,0.95);
 	box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);
 	-moz-box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);
 	-webkit-box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1);
-	padding-top: 0px !important;
-	margin-top: 28px !important;
+	padding-top: 0px;
+	margin-top: 28px;
 	-webkit-transition: all .5s ease;
 	-moz-transition: all .5s ease;
 	transition: all .5s ease;
