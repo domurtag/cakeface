@@ -60,7 +60,11 @@
     }
 
     .hero-h1 {
-        font-size: 66px;
+        font-size: 50px;
+    }
+
+    .page-preamble .alt-h, #front-quote .alt-h {
+        font-size: 20px;
     }
 
     #home-slider .slides li {
