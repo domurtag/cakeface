@@ -61,6 +61,8 @@
 
     .hero-h1 {
         font-size: 50px;
+        margin-bottom: -8px
+
     }
 
     .page-preamble .alt-h, #front-quote .alt-h {
