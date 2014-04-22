@@ -749,11 +749,6 @@ i{
 	cursor: pointer;
 }
 
-.shadow {
-    border-radius: 7px;
-    box-shadow: 10px 10px 5px 0 #ccc;
-}
-
 .work-item .work-img-holder img{
 	height: 100%;
 	max-width: 150%;
